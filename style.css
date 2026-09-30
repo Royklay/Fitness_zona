@@ -1,0 +1,60 @@
+body {
+    font-size: 16px;
+}
+
+@media (max-width: 720px) {
+    body {
+        font-size: 16px;
+    }
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav{
+    display: flex;
+    gap: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    color: green;
+}
+.TITLE{
+    display: flex;
+    flex-direction: column;
+}
+.green{
+    color: green;
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    padding: 20px 40px;
+}
+.hero-text,
+.hero-image{
+    flex: 1;
+}
+.TITLE{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.hero-image img{
+    width: 100%;
+    max-width: 450px;
+    display: block;
+    margin-left: auto;
+}
+.first{
+    color: green;
+    text-decoration: underline;
+}
+.TITLE{
+    font-weight: 900;
+}
