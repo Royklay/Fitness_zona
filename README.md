@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-> *Live Website:* 
+> *Live Website:* https://royklay.github.io/Fitness_zona/
 
 ---
 
