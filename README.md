@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-> *Live Website:* [PASTE YOUR LIVE URL HERE]
+> *Live Website:* 
 
 ---
 
